@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @mahanmarwat
-- 👀 I’m interested in everything.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on Python and Flutter projects.
-- 📫 How to reach me Insta|Facebook @mahanmarwat
+Hi,
+
+I am Mahan Marwat, computer software developer from Khyber Pakhtunkhwa, Lakki Marwat.  
+MCS graduate from NUML Islamabad.
+
+Say hello at mahanmarwat@gmail.com
 
 <!---
 mahanmarwat/mahanmarwat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
