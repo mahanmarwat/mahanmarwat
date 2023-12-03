@@ -1,8 +1,3 @@
-Hi,
-
-I am Mahan Marwat, computer software developer from Khyber Pakhtunkhwa, Lakki Marwat.  
-MCS graduate from NUML Islamabad.
-
 Insta: @mahanmarwat
 
 <!---
